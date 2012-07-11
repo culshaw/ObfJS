@@ -18,5 +18,9 @@ The plugin can be included after the initialisation of jQuery (I'm working on a 
 	// or
 	$('.email').ObfJS();
 
+## Roadmap
+
+This isn't the best all round solution as it will fail miserably on mobile. I'm thinking about how to tackle this, all ideas are welcome.
+
 ## Help!
 By all means fork this and improve it, together we can unite and rise up against the machines.
