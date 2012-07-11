@@ -1,4 +1,4 @@
-# ObfJS Ð a different approach to obfuscating email addresses
+# ObfJS - a different approach to obfuscating email addresses
 
 ## How it works
 This jQuery plugin updates the email addresses on the page by only placing the email address in the <a> when the user hovers over the link. This way a bot or scraper would have to actively hover over your link in order to get at your email address.
